@@ -1,8 +1,11 @@
 {
-    code:200,
-    msg:"获取成功",
-    data:{
-        ip:156.238.254.213,
-        host:4582
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
     }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
